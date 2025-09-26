@@ -1,6 +1,6 @@
 # 音乐播放器 MCP 集成
 
-通过 MCP (Model Context Protocol) 协议，将第三方音乐播放器集成到 Linxi 平台。
+通过 MCP (Model Context Protocol) 协议，将第三方音乐播放器集成到灵矽平台。
 
 ## 功能特性
 
@@ -12,7 +12,7 @@
 
 ### 1. 登录平台并选择自定义 MCP
 
-登录 Linxi 平台，在设置界面中选择"自定义 MCP"选项。
+登录灵矽平台，在设置界面中选择"自定义 MCP"选项。
 
 <img width="216" height="529" alt="选择自定义MCP" src="https://github.com/user-attachments/assets/99f549c6-f832-4d28-ad8d-0379593dcf64" />
 
